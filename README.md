@@ -1,4 +1,4 @@
-#Flappy Game Python Project
+# Flappy Game Python Project
 Project Overview
 The Flappy Game Python project involves developing a clone of the popular Flappy Bird game using Python and the Pygame library. This project aims to recreate the basic mechanics and gameplay of Flappy Bird, providing an engaging and interactive experience. The project also serves as a practical exercise to enhance Python programming and game development skills.
 
